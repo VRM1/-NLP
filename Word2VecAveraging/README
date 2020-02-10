@@ -1,0 +1,2 @@
+1. Use external embeddings on Amazon review dataset
+2. Apply word averaging technique to convert a document into a fixed length embedding vector
