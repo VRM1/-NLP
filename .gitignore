@@ -5,6 +5,5 @@ datasets
 __pycache__
 fmnist
 logs
-data
 trained_weights
 .ipynb_checkpoints
